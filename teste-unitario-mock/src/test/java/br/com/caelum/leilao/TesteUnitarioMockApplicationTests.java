@@ -1,4 +1,4 @@
-package br.com.alura.mock;
+package br.com.caelum.leilao;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
